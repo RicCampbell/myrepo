@@ -5,3 +5,4 @@ A line I wrote from local RStudio
 A line from the virtual machine RStudio
 More lines form somewhereA line from PJI VM
 From RStudio on PJI as user
+One for test for login reasons
