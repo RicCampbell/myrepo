@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: 'Test CITATION file for testing'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Ric'
+    family-names: 'Campbell'
+    email: 'r.j.campbell@sheffield.ac.uk'
+    affiliation: 'University of Sheffield'
+    orcid: 'https://orcid.org/0000-0002-0975-9270'
+repository-code: 'https://github.com/RicCampbell/myrepo'
+url: 'https://github.com/RicCampbell/myrepo'
+abstract: >-
+ Test of a CITATION file to see what if any different between GitHub generated citation and Figshare one
+keywords:
+  - test
+  - citation
+license: CC-BY-4.0
